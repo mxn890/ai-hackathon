@@ -43,7 +43,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/MUHAMMADSHAHRUKH459/robotics-textbook/tree/main/',
+            'https://github.com/mxn890/ai-hackathon.git',
         },
         blog: false,
         theme: {
@@ -112,7 +112,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/MUHAMMADSHAHRUKH459/robotics-textbook',
+                href: 'https://github.com/mxn890/ai-hackathon.git',
               },
               {
                 label: 'Panaversity',
