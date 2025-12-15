@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Comprehensive Physical AI Coverage',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Explore the fundamental principles of Physical AI, including embodied intelligence, sensorimotor learning, and how AI systems interact with the physical world.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Humanoid Robotics Focus',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Dive deep into humanoid robot design, bipedal locomotion, manipulation, perception systems, and human-robot interaction for advanced robotic platforms.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Research & Development Resources',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Access cutting-edge research papers, practical implementation guides, simulation tools, and development frameworks for Physical AI systems.
       </>
     ),
   },
