@@ -86,7 +86,7 @@ async def chat(message: ChatMessage):
         )
 
 
-@app.post("/personalize")
+@app.post("/chat")
 async def personalize_content(request: dict):
     try:
         content = request.get("content", "")
